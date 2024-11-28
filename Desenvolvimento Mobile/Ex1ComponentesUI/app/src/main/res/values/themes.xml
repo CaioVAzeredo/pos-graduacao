@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ex1ComponentesUI" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorPrimary">@color/dark_blue</item>
+        <item name="colorPrimaryVariant">@color/light_blue</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+
+    </style>
+
+    <style name="Theme.Ex1ComponentesUI" parent="Base.Theme.Ex1ComponentesUI" />
+</resources>

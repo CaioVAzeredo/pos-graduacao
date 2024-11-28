@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MenuRecyclerView" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/rosa_uniceub</item>
+        <item name="colorPrimaryDark">@color/roxo_uniceub</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+
+    <style name="Theme.MenuRecyclerView" parent="Base.Theme.MenuRecyclerView" />
+</resources>

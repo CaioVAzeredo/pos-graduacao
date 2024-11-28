@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Principal"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_create"
+        android:icon="@drawable/baseline_all_inclusive_24"
+        android:title="Salvar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_excluir"
+        android:icon="@drawable/baseline_airplanemode_active_24"
+        android:title="Excluir"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_consultar"
+        android:icon="@drawable/baseline_airport_shuttle_24"
+        android:title="Pesquisar"
+        app:showAsAction="ifRoom" />
+</menu>
